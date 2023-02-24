@@ -24,8 +24,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ReoUndaunted&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
