@@ -28,7 +28,7 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ReoUndaunted&icon=9&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ReoUndaunted&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <a href="https://app.daily.dev/ReoUndaunted"><img src="https://api.daily.dev/devcards/2ea4253d673841f191e02fcdd3654888.png?r=ia0" width="400" alt="Raphael E. Ovonlen's Dev Card"/></a>
