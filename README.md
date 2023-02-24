@@ -28,7 +28,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ReoUndaunted&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ReoUndaunted/ReoUndaunted/blob/main/devcard.svg" width="400" alt="Raphael E. Ovonlen's Dev Card"/></a>
+<a href="https://app.daily.dev/ReoUndaunted"><img src="https://github.com/ReoUndaunted/ReoUndaunted/blob/main/devcard.svg" width="400" alt="Raphael E. Ovonlen's Dev Card"/></a>
 
 <!-- <a href="https://app.daily.dev/ReoUndaunted"><img src="https://api.daily.dev/devcards/2ea4253d673841f191e02fcdd3654888.png?r=f06" width="400" alt="Raphael Ovonlen's Dev Card"/></a> -->
 
