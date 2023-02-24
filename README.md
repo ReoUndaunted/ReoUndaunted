@@ -30,5 +30,6 @@
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ReoUndaunted/ReoUndaunted/blob/master/devcard.svg" width="400" alt="Raphael E. Ovonlen's Dev Card"/></a>
 
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="raphaelovonlen" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/raphaelovonlen?trk=profile-badge">Raphael O.</a></div>
               
