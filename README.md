@@ -29,6 +29,9 @@
 [![](https://visitcount.itsvg.in/api?id=ReoUndaunted&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a href="https://app.daily.dev/ReoUndaunted"><img src="https://api.daily.dev/devcards/2ea4253d673841f191e02fcdd3654888.png?r=ia0" width="400" alt="Raphael E. Ovonlen's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ReoUndaunted/ReoUndaunted/blob/master/devcard.svg" width="400" alt="Raphael E. Ovonlen's Dev Card"/></a>
+
+[//]: # "<a href="https://app.daily.dev/ReoUndaunted"><img src="https://api.daily.dev/devcards/2ea4253d673841f191e02fcdd3654888.png?r=ia0" width="400" alt="Raphael E. Ovonlen's Dev Card"/></a>"
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="raphaelovonlen" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/raphaelovonlen?trk=profile-badge">Raphael O.</a></div>
               
